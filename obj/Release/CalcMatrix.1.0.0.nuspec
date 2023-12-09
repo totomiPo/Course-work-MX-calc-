@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CalcMatrix</id>
+    <version>1.0.0</version>
+    <authors>CalcMatrix</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0">
+        <dependency id="Microsoft.CSharp" version="4.7.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.Sqlite" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="System.Data.DataSetExtensions" version="4.5.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net8.0-windows7.0/bin/Release/net8.0-windows/src/icon/applicationseducation_103766.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\daria\OneDrive\Документы\3 курс\5 семестр\Курсовая работа\Course\AppCalcMatrix\CalcMatrix\bin\Release\net8.0-windows\CalcMatrix.runtimeconfig.json" target="lib\net8.0-windows7.0\CalcMatrix.runtimeconfig.json" />
+    <file src="C:\Users\daria\OneDrive\Документы\3 курс\5 семестр\Курсовая работа\Course\AppCalcMatrix\CalcMatrix\bin\Release\net8.0-windows\CalcMatrix.dll" target="lib\net8.0-windows7.0\CalcMatrix.dll" />
+    <file src="C:\Users\daria\OneDrive\Документы\3 курс\5 семестр\Курсовая работа\Course\AppCalcMatrix\CalcMatrix\bin\Release\net8.0-windows\src\icon\applicationseducation_103766.ico" target="content\bin\Release\net8.0-windows\src\icon\applicationseducation_103766.ico" />
+    <file src="C:\Users\daria\OneDrive\Документы\3 курс\5 семестр\Курсовая работа\Course\AppCalcMatrix\CalcMatrix\bin\Release\net8.0-windows\src\icon\applicationseducation_103766.ico" target="contentFiles\any\net8.0-windows7.0\bin\Release\net8.0-windows\src\icon\applicationseducation_103766.ico" />
+  </files>
+</package>

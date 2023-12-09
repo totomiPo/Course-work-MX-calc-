@@ -1,0 +1,9 @@
+* --------------------------------------------------------------------- *
+08.12.2023 12:44:04System.DivideByZeroException: Attempted to divide by zero.
+   at CalcMatrix.Form1.createMatrixA_Click(Object sender, EventArgs e) in C:\Users\daria\OneDrive\Документы\3 курс\5 семестр\Курсовая работа\Course\AppCalcMatrix\CalcMatrix\Form1.cs:line 478
+* --------------------------------------------------------------------- *
+08.12.2023 12:44:18System.DivideByZeroException: Attempted to divide by zero.
+   at CalcMatrix.Form1.createMatrixA_Click(Object sender, EventArgs e) in C:\Users\daria\OneDrive\Документы\3 курс\5 семестр\Курсовая работа\Course\AppCalcMatrix\CalcMatrix\Form1.cs:line 478
+* --------------------------------------------------------------------- *
+08.12.2023 12:44:24System.DivideByZeroException: Attempted to divide by zero.
+   at CalcMatrix.Form1.createMatrixA_Click(Object sender, EventArgs e) in C:\Users\daria\OneDrive\Документы\3 курс\5 семестр\Курсовая работа\Course\AppCalcMatrix\CalcMatrix\Form1.cs:line 478

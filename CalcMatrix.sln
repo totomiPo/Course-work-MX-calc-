@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalcMatrix", "CalcMatrix.csproj", "{944F3B2D-9914-494D-9BBB-31936A5B3725}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DAB11ABC-05DA-4BBA-BB94-B7D4F73D46D9}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MX Installer", "..\MX Installer\MX Installer.vdproj", "{E375E6A7-10DB-4322-BB61-ED6D06D27D29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{944F3B2D-9914-494D-9BBB-31936A5B3725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{944F3B2D-9914-494D-9BBB-31936A5B3725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{944F3B2D-9914-494D-9BBB-31936A5B3725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{944F3B2D-9914-494D-9BBB-31936A5B3725}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E375E6A7-10DB-4322-BB61-ED6D06D27D29}.Debug|Any CPU.ActiveCfg = Debug
+		{E375E6A7-10DB-4322-BB61-ED6D06D27D29}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F46E0168-D77D-49C8-B25E-1146B30FEE0C}
+	EndGlobalSection
+EndGlobal
